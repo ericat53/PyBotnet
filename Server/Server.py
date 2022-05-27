@@ -229,3 +229,4 @@ if __name__ == '__main__':
         cherrypy.engine.block()
         cherrypy.engine.stop()
         quit()
+localhost:8080
